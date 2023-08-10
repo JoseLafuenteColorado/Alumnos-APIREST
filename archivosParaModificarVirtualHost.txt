@@ -1,0 +1,3 @@
+C:\Windows\System32\drivers\etc => archivo host
+
+C:\xampp\apache\conf\extra => archivo httpd-vhosts.conf

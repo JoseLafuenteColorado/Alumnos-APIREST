@@ -1,0 +1,15 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "App\\Controllers\\": "app/Controllers/",
+            "App\\Models\\": "app/Models/",
+            "App\\Routes\\": "app/Routes/",
+            "Vendor\\": "vendor/"
+            
+        }
+    },
+    "require": {
+        "vlucas/phpdotenv": "^5."
+    }
+}
